@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x578833a10a4b064139d755d5f29c6e6b799b70f8",
+  "SCAN_LINK": "https://etherscan.io/address/0x578833a10a4b064139d755d5f29c6e6b799b70f8",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "The Demi Lord 1000 V1",
+  "SYMBOL": "TDL",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 120000000000000000,
+  "DISPLAY_COST": 0.12,
+  "GAS_LIMIT": 160000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/demi-lord",
+  "SHOW_BACKGROUND": true
+}
